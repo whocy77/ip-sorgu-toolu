@@ -3,7 +3,7 @@
 
 pkg update && pkg upgrade -y
 pkg install python git -y
-git clone https://github.com/whocy77/ip-panel
+https://github.com/whocy77/ip-sorgu-toolu.git
 cd ip-panel
 python3 whocy-ip-tool.py
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
